@@ -10,7 +10,7 @@ layout: feed
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
 	<id>http://mouhamedt4033.github.io/blog</id>
 	<author>
-		<name>Mouhamed  Tounkara</name>
+		<name>Mouhamed Tounkara</name>
 		<email>mouhamedt4033@afsenyc.org</email>
 	</author>
 
