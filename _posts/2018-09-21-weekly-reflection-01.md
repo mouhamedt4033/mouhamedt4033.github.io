@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Mouhamed Tounkara, A Scholar, 
-date: 2018-09-21
+date: 2018-09-28
 ---
-
-Well. Finally got around to putting this website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) It was was diffucult to understand but at the end i figured it out. Im excited to learn new things about computer science.
+For the past few weeks of school in the programming class for computer science i've felt confidit about the class and the work too. Right now i'm learning a language about raket (Scheme)and I also learned how to use math circle of evlaution. This is  perparing us to make our own video game. The struggles that i'm going to face is to make the game good without making a mistake and not to have problems creating the game.
 
 
