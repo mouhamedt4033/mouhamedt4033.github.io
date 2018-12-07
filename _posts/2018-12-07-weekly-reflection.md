@@ -3,8 +3,8 @@ Layout: post
 Title:"Flag collage"
 Date: 2018-12-07
 ---
-The last week we was getting to move on to the flag project. so we planned it for this week. 
-we was doing a Flag Collage made out of paper.But first Mr Alltta wanted us to learn how to create a flag collage with accurate measurement before we get to the computer. I think that his idea was to first make a flag with paper and wanted us to use it as and idea of how you can make flag. In my opinion this idea is smart because i thought we was doing it just to do it but i didn't realize that it was preparing us to get to wescheme to test it out. To tell the truth the task was a little confusing for some student was struggling including me. 
+*The last week we was getting to move on to the flag project. so we planned it for this week. 
+we was doing a Flag Collage made out of paper.But first Mr Alltta wanted us to learn how to create a flag collage with accurate measurement before we get to the computer. I think that his idea was to first make a flag with paper and wanted us to use it as and idea of how you can make flag. In my opinion this idea is smart because i thought we was doing it just to do it but i didn't realize that it was preparing us to get to wescheme to test it out. To tell the truth the task was a little confusing for some student was struggling including me.*
 
 <!DOCTYPE html>
 <html>
