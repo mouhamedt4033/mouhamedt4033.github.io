@@ -29,14 +29,32 @@ The strategies that i did was is defining the shapes that for the flag and i can
 
 ## Explain your code.
 
--   Choose a significant part of your program (15 lines max) and paste it below. Do not insert your entire program here. _then delete this instruction_
--   Explain each argument in the code section. _then delete this instruction_
+
+The argument in the code are all shapes that I used to put thoese images to put into a United kingdom flag. The code that i did was mostly defining  all the shapes because i wanted to do part by part.
 -   Tell us how it functions independently and within the whole program _then delete this instruction_
 
 * * *
 
 ```
-Insert 10-15 line code section here _then delete this instruction_
+(define LINE(rectangle 650 68 "solid" "crimson"))
+(define left (rotate 155 (rectangle 600 15 "solid" "crimson")))
+(define right (rotate 25 ( rectangle 600 15 "solid" "crimson")))
+(define down (rotate 291 (rectangle 15 580 "solid" "crimson" )))
+(define dl (rotate 65 (rectangle 15 600 "solid" "crimson")))
+(define ball(rectangle 530 15 "solid" "white"))
+(define all(rotate 90(rectangle 230 15 "solid" "white")))
+(define dell(rotate 90(rectangle 230 15 "solid" "white")))
+
+(define JAY (put-image LINE 300 150 BASE))
+(define MAY (put-image UP 300 150 JAY))
+(define LAYS (put-image left 0 300 MAY))
+ (define BAY (put-image right 600 300 LAYS))
+(define AY(put-image down 0 20 BAY))
+(define EN (put-image dl 600 0 AY))
+(define tall(put-image ball 0 108 EN ))
+(define lal(put-image all 258 0 tall))
+(define gall(put-image dell 344 0 lal))
+(define hall(put-image laugh 500 108 gall))
 ```
 
 * * *
