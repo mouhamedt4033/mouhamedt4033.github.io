@@ -4,14 +4,13 @@ title: "Flag Project - Final Submission"
 date: 2018-12-21
 ---
 
-## Flag of _insert your country_ by _insert your name_
+## Flag of _United Kingdom_ by _Mouhamed Tounkara_
 
 ## Describe your program
 
--   What country did you design for? _then delete this instruction_
--   What grade do you expect? _then delete this instruction_
+-  I design a united kingdom flag  
+-   I excpet a 3 becase i attemped the profisional level flag and I didn't finish.
 
-<!--- Delete this comment and add your writing -->
 
 ## Current output
 
@@ -23,9 +22,9 @@ date: 2018-12-21
 
 ## Describe your process.
 
--   What questions, strategies, help from peers or teacher, or thinking got you to this point? _then delete this instruction_
 
-<!--- Delete this comment and add your writing -->
+The strategies that i did was is defining the shapes that for the flag and i can put the image into the base to create the United Kingdom flag. I had a little help from my peers when I have a question for them. like for example my question was how to put image because in the past It was not my strong suit but I over come it and is half done. when I looked back at my notes it all become clear and found a way to do my work. I thinking can be better than asking for helpl if you have your notebook aside of you.
+
 
 
 ## Explain your code.
